@@ -1,0 +1,3 @@
+This is a library to simulate incompressible flow in a pipeline. It solves the pressure gradient equation:
+
+\frac{dP}{dx}=-\rho\nu\frac{d\nu}{dx} - \rho g sin{\theta}-\frac{f\rho\nu^{2}}{2D}
